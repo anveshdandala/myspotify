@@ -1,0 +1,30 @@
+html{
+    font-size: 23px;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+}
+h1{
+    color: rgb(18, 138, 48);
+}
+
+a{
+    color: rgb(81, 173, 96);   
+}
+
+a:hover, a:active{
+    color: rgb(80, 141, 45);
+}
+table,th,tr,td{
+    border: 2px solid #071d02;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+legend {
+    display:block;
+    font-weight: bold;
+    font-size: 1.2em;
+}
